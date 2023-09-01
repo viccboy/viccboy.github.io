@@ -483,4 +483,18 @@ nav{
     height: 150px;
     /* order: 3 */
   }
+  .Try-it{
+  height:  50px;
+  width:  190px;
+  background-color: white;
+  margin-left: 35%;
+   z-index: 1;
+   border: none;
+   border-radius: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-weight: 700;
+   box-shadow: 1px 1px 9px gray;
+    }
 }
