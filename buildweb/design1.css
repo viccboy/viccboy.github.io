@@ -49,6 +49,7 @@ nav{
   border: none;
   border-radius: 30px; 
   color: white;
+  align-self: center;
 }
 .logo-div{
     display: flex;
