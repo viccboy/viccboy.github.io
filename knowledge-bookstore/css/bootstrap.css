@@ -11264,3 +11264,29 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
+@media  (min-width: 1200px){
+   
+}
+@media  (min-width: 998px) and (max-width:1199px){
+   
+}
+
+/* medium devices */
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+/* small device */
+@media (min-width: 576px) and (max-width: 767px){
+.last{
+  margin-top: 200px;
+}
+      
+}
+/* xtra small*/
+@media (min-width: 0px) and (max-width: 575px){
+  .last{
+    margin-top: 200px;
+  }
+}
