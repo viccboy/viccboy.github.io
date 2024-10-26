@@ -20,8 +20,8 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
 
     - name: Build Docker image
-      run: docker build . -t VICBOY/dockerimage:latest
+      run: docker build . -t vicboy/dockerimage:latest
 
     - name: Push Docker image
-      run: docker push VICBOY/dockerimage:latest
+      run: docker push vicboy/dockerimage:latest
  
